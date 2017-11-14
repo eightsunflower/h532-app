@@ -1,0 +1,1 @@
+console.log('这是js 文件');
